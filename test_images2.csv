@@ -1,5 +1,5 @@
 masks,images
-images-unet/test/labels/b23232898bafcf304b2138af86be40b9_0.png,images-unet/test/images/b23232898bafcf304b2138af86be40b9_0.png
+FootSegmentation_2/images-unet/test/labels/b23232898bafcf304b2138af86be40b9_0.png,FootSegmentation_2/images-unet/test/images/b23232898bafcf304b2138af86be40b9_0.png
 images-unet\test\labels\b586407933e66b112820f28448783627_0.png,images-unet\test\images\b586407933e66b112820f28448783627_0.png
 images-unet\test\labels\b61269467f2dc93f3cc31f933fa7013a_0.png,images-unet\test\images\b61269467f2dc93f3cc31f933fa7013a_0.png
 images-unet\test\labels\b712446cdd649dcb735673f7322daa69_0.png,images-unet\test\images\b712446cdd649dcb735673f7322daa69_0.png
